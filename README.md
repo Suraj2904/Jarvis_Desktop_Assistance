@@ -11,7 +11,7 @@ jarvisAI/
 │
 ├── main.py          # Core assistant — all features and voice logic
 ├── openaitest.py    # Quick script to test your OpenAI API connection
-├── config.py        # Your API keys (never commit this to GitHub!)
+├── config.py        # Your API keys 
 └── README.md        # This file
 ```
 
